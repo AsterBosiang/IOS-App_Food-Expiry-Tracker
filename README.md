@@ -1,8 +1,6 @@
-<img src="images/icon.png" width="75" alt="icon">
-
 # Food Expiry Tracker
 
-A Swift-based iOS application designed to help users track food expiration dates and reduce food waste through intuitive visual management.
+<img src="images/icon.png" width="75" alt="icon"> A Swift-based iOS application designed to help users track food expiration dates and reduce food waste through intuitive visual management.
 
 <img src="images/image7.png" width="300" alt="image7">
 
