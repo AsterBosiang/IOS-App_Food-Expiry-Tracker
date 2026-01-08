@@ -39,23 +39,17 @@ A Swift-based iOS application designed to help users track food expiration dates
 
 ```
 FoodExpiryTracker/
-├── Models/
-│   └── FoodItem.swift              # Data model for food items
-├── ViewModels/
-│   └── FoodDataManager.swift       # Data management and business logic
-├── Views/
-│   ├── ContentView.swift           # Main view container
-│   ├── AnalysisView.swift          # Consumption analysis chart
-│   ├── RecentlyExpiredView.swift   # Expired items section
-│   ├── FoodGridView.swift          # Grid display of active items
-│   ├── AddFoodView.swift           # Add new food item form
-│   ├── EditFoodView.swift          # Edit existing item form
-│   ├── AllFoodListView.swift       # Full list view of all items
-│   └── BottomNavBar.swift          # Bottom navigation bar
+├── ContentView.swift           # Main view container
+├── AnalysisView.swift          # Consumption analysis chart
+├── RecentlyExpiredView.swift   # Expired items section
+├── FoodGridView.swift          # Grid display of active items
+├── AddFoodView.swift           # Add new food item form
+├── EditFoodView.swift          # Edit existing item form
+├── AllFoodListView.swift       # Full list view of all items
+└── BottomNavBar.swift          # Bottom navigation bar
 ├── Assets.xcassets/
-│   └── AddButtonImage              # Custom add button image
-└── App/
-    └── FoodExpiryTrackerApp.swift  # App entry point
+│   └── AddButtonImage          # Custom add button image
+└── LastBiteApp.swift           # App entry point
 ```
 
 ## Usage
