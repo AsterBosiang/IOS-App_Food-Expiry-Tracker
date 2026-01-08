@@ -1,5 +1,5 @@
 # Food Expiry Tracker
-![icon](images/icon.png)
+<img src="images/icon.png" width="300" alt="icon">
 
 A Swift-based iOS application designed to help users track food expiration dates and reduce food waste through intuitive visual management.
 
@@ -61,7 +61,7 @@ FoodExpiryTracker/
 ## Usage
 
 ### Main Page
-![image0](images/image0.png)
+<img src="images/image0.png" width="300" alt="image0">
 
 ### Adding a Food Item
 1. Tap the green circular button at the bottom center of the screen
@@ -69,19 +69,19 @@ FoodExpiryTracker/
 3. Select the expiry date using the date picker
 4. Optionally enter the quantity
 5. Tap "Save" to add the item
-![image1](images/image1.png)
+<img src="images/image1.png" width="300" alt="image1">
 
 ### Viewing Food Items
 - Grid View: See all non-expired items sorted by expiry date in the "Finished yet?" section
 - List View: Tap the grid icon (bottom left) to see a full list of all active items
 - Expired Items: View recently expired items in the orange "Recent Wasted" section
 - Analyzed Consumption: View the line chart in the green "Analysis" section at the top and track your monthly consumption patterns over the last 6 months
-![image2](images/image2.png)
+<img src="images/image2.png" width="300" alt="image2">
 
 ### Managing Items
 1. Tap any food item card to open the edit screen
 2. Update the quantity if needed
 3. Tap "Mark as Consumed" to remove the item from tracking
 4. Tap "Save" to confirm changes
-![image3](images/image3.png)
-![image4](images/image4.png)
+<img src="images/image3.png" width="300" alt="image3">
+<img src="images/image4.png" width="300" alt="image4">
