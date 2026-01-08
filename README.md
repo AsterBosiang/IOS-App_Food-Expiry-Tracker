@@ -83,4 +83,5 @@ FoodExpiryTracker/
 2. Update the quantity if needed
 3. Tap "Mark as Consumed" to remove the item from tracking
 4. Tap "Save" to confirm changes
+
 <img src="images/image3.png" width="300" alt="image3"> <img src="images/image4.png" width="300" alt="image4">
