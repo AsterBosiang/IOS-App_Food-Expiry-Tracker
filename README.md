@@ -2,6 +2,7 @@
 <img src="images/icon.png" width="150" alt="icon">
 
 A Swift-based iOS application designed to help users track food expiration dates and reduce food waste through intuitive visual management.
+<img src="images/image7.png" width="300" alt="image7">
 
 
 ## Features
@@ -38,7 +39,7 @@ A Swift-based iOS application designed to help users track food expiration dates
 ## Project Structure
 
 ```
-FoodExpiryTracker/
+LastBite/
 ├── ContentView.swift           # Main view container
 ├── AnalysisView.swift          # Consumption analysis chart
 ├── RecentlyExpiredView.swift   # Expired items section
