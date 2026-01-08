@@ -1,5 +1,5 @@
 # Food Expiry Tracker
-<img src="images/icon.png" width="300" alt="icon">
+<img src="images/icon.png" width="150" alt="icon">
 
 A Swift-based iOS application designed to help users track food expiration dates and reduce food waste through intuitive visual management.
 
@@ -83,5 +83,4 @@ FoodExpiryTracker/
 2. Update the quantity if needed
 3. Tap "Mark as Consumed" to remove the item from tracking
 4. Tap "Save" to confirm changes
-<img src="images/image3.png" width="300" alt="image3">
-<img src="images/image4.png" width="300" alt="image4">
+<img src="images/image3.png" width="300" alt="image3"> <img src="images/image4.png" width="300" alt="image4">
